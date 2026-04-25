@@ -1,15 +1,15 @@
-# ??? Governança Hut 8
+ï»¿# ğŸ›ï¸ GovernanÃ§a Hut 8
 
-Este repositório é a central de gestão da Hut 8 Jr. Aqui definimos os processos, equipes e o roadmap estratégico.
+Este repositÃ³rio Ã© a central de gestÃ£o da Hut 8 Jr. Aqui definimos os processos, equipes e o roadmap estratÃ©gico.
 
-## ?? Estrutura da Diretoria
+## ğŸ‘¥ Estrutura da Diretoria
 - **Diretor Presidente:** Samuel
 - **Diretor de Projetos:** Augusto Menchaca
 - **Diretor Financeiro:** Gabriel Martins
 - **Diretor de Marketing:** Manoela
-- **Diretor de Pessoas:** Inácio
+- **Diretor de Pessoas:** InÃ¡cio
 
-## ?? Equipes e Squads
+## ğŸ’» Equipes e Squads
 
 ### Desenvolvimento
 - **Pedro Motta** (Dev)
@@ -22,4 +22,4 @@ Este repositório é a central de gestão da Hut 8 Jr. Aqui definimos os processos,
 - **Ruan** (Design / Marketing)
 
 ---
-*Organizado automaticamente via Gemini CLI - 2026*
+*Organizado via Gemini CLI â€” 2026*

@@ -20,6 +20,3 @@ Este repositório é a central de gestão da Hut 8 Jr. Aqui definimos os process
 - **Amanda Schiller** (Design)
 - **Amanda Viera** (Design)
 - **Ruan** (Design / Marketing)
-
----
-*Organizado via Gemini CLI — 2026*

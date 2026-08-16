@@ -2,7 +2,7 @@
 
 Este repositório é a fonte central de informações sobre diretoria, squads, projetos e práticas de gestão da Hut 8 Jr.
 
-> **Última atualização:** 6 de agosto de 2026.
+> **Última atualização:** 16 de agosto de 2026.
 
 ## 👥 Diretoria
 
@@ -72,9 +72,9 @@ Squad multidisciplinar em formação, preparado para diferentes desafios.
 | :--- | :--- | :--- | :--- |
 | Líder | Cassiano Pessoa | [@Caspessoa](https://github.com/Caspessoa) | Convite pendente |
 | Membro | Pedro Mota | [@PMota173](https://github.com/PMota173) | Ativo |
-| Membro | Manuela Viera | A confirmar | Aguardando identificação |
-| Membro | Alan Alves | A confirmar | Aguardando identificação |
-| Membro | Kenzo Takahashi | A confirmar | Aguardando identificação |
+| Membro | Manoela Viera | [@ManoelaV](https://github.com/ManoelaV) | Convite pendente |
+| Membro | Alan Alves | [@AlanF4rias](https://github.com/AlanF4rias) | Convite pendente |
+| Membro | Kenzo Takahashi | [@KenzoTakas](https://github.com/KenzoTakas) | Convite pendente |
 
 - **Projetos:** 0
 - **Repositórios:** nenhum associado

@@ -2,7 +2,7 @@
 
 Este documento apresenta publicamente o modelo de organização da Diretoria de Projetos, suas responsabilidades e a relação entre diretoria e squads.
 
-> **Última atualização:** 6 de agosto de 2026.
+> **Última atualização:** 16 de agosto de 2026.
 
 ## 👥 Modelo de governança por squads
 
@@ -26,7 +26,7 @@ graph TD
 | :--- | :--- | :--- | :---: |
 | **Squad 1** | João Marcelo | Rodrigo, Victor Reis e Matheus Persch | **1** |
 | **Squad 2** | Gustavo Brendler | Pedro Mognon, Pedro Izkovitz, Mariana e Enzo Giacomini | **1** |
-| **Squad 3** | Cassiano Pessoa | Pedro Mota, Manuela Viera, Alan Alves e Kenzo Takahashi | **0** |
+| **Squad 3** | Cassiano Pessoa | Pedro Mota, Manoela Viera, Alan Alves e Kenzo Takahashi | **0** |
 | **Squad +CARNE** | Governança de Augusto Menchaca | Augusto Molina, Pedro Mota e Pedro Izkovitz | **1** |
 
 Os status de associação e os links dos projetos estão consolidados no [README principal](./README.md).
